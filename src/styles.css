@@ -2,3 +2,20 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.ml20{
+    margin-left: 20px;
+}
+
+.mr20{
+    margin-right: 20px;
+}
+
+.mt20{
+    margin-top: 20px;
+}
+
+.text-center{
+    align-items: center;
+    text-align: center;
+}
