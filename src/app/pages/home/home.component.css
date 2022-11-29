@@ -92,4 +92,35 @@
     background-size: cover;
   }
   /* https://cdn-icons-png.flaticon.com/512/5231/5231719.png */
-  
+  .skills{
+    justify-content: center;
+    background-size: cover;
+    height: fit-content;
+    width: fit-content;
+    
+    margin-left: 7%;
+    margin-right: 7%;
+
+}
+.r1{
+    margin-left: 11%;
+    margin-right: 11%;
+}
+.r2{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+.r3{
+    margin-left: 22%;
+    margin-right: 13%;
+}
+.r4{
+    margin-left: 25%;
+    margin-right: 26%;
+    margin-bottom: 0%;
+}
+.r5{
+    margin-left: 25%;
+    margin-right: 26%;
+    margin-top: 0%;
+}
